@@ -1,0 +1,5 @@
+{
+  "name": "Tạo Câu Hỏi Tin Học (Sử dụng)",
+  "description": "Một ứng dụng web để tạo câu hỏi trắc nghiệm và đúng/sai từ nội dung tài liệu do người dùng cung cấp, được hỗ trợ bởi Gemini. Các câu hỏi được phân loại theo các chỉ báo năng lực và cấp độ nhận thức.",
+  "requestFramePermissions": []
+}
